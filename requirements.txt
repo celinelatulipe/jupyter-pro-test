@@ -1,1 +1,1 @@
-pip install --upgrade calysto-processing
+pip install calysto-processing
