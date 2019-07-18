@@ -1,1 +1,1 @@
-git+https://github.com/celinelatulipe/calysto_processing/tree/master/calysto_processing
+git+https://github.com/celinelatulipe/calysto_processing/tree/PJS-only
